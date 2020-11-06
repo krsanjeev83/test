@@ -1,1 +1,1 @@
-Branch developed and maintained by Tejaswi 
+Branch developed and maintained
