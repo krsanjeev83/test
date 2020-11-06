@@ -1,1 +1,2 @@
 Trying out git branching.
+new line added.
